@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhaskar yerrolla</h1> <h3 align="center">A passionate Ruby on rails developer from India</h3>
 🔭 I’m currently working on E-commerce project
 
-🌱 I’m currently learning Rails , JavaScript and
+🌱 I’m currently learning Rails , JavaScript 
 
-👯 I’m looking to collaborate on RoR projects and
+👯 I’m looking to collaborate on RoR projects 
 
 📝 I regularly write articles on LinkedIn
 
